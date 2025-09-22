@@ -17,7 +17,7 @@ Minime\Annotations is the first KISS PHP annotations library.
 ```json
 {
   "require": {
-    "minime/annotations": "dev-master"
+    "ziorwebdev/annotations": "dev-master"
   }
 }
 ```
