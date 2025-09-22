@@ -2,7 +2,13 @@
     "name": "ziorwebdev/annotations",
     "type": "library",
     "description": "The KISS PHP annotations library",
-    "keywords": ["php", "annotations", "reflection", "metadata", "docblock"],
+    "keywords": [
+        "php",
+        "annotations",
+        "reflection",
+        "metadata",
+        "docblock"
+    ],
     "license": "MIT",
     "authors": [
         {
@@ -13,18 +19,22 @@
     ],
     "require": {
         "php": ">=8.0.0",
-        "ext-json":"*",
+        "ext-json": "*",
         "regex-guard/regex-guard": "~1.0",
-        "nikic/php-parser" : "^5.0"
+        "nikic/php-parser": "^5.0"
     },
     "require-dev": {
         "mockery/mockery": "^1.6",
         "phpunit/phpunit": ">=8.5.0"
     },
     "autoload": {
-        "psr-4": { "Minime\\Annotations\\": "src/" }
+        "psr-4": {
+            "Minime\\Annotations\\": "src/"
+        }
     },
     "autoload-dev": {
-        "psr-4": { "Minime\\Annotations\\Fixtures\\": "test/fixtures/" }
+        "psr-4": {
+            "Minime\\Annotations\\Fixtures\\": "test/fixtures/"
+        }
     }
 }
