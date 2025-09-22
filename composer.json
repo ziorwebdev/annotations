@@ -1,14 +1,14 @@
 {
-    "name": "minime/annotations",
+    "name": "ziorwebdev/annotations",
     "type": "library",
     "description": "The KISS PHP annotations library",
     "keywords": ["php", "annotations", "reflection", "metadata", "docblock"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Márcio Almada",
-            "email": "marcio3w@gmail.com",
-            "homepage": "https://github.com/marcioAlmada/"
+            "name": "Rey C",
+            "email": "reygcalantaol@gmail.com",
+            "homepage": "https://github.com/ziorwebdev/"
         }
     ],
     "require": {
