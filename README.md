@@ -1,4 +1,4 @@
-Minime \ Annotations
+Fork from Minime \ Annotations
 ==================
 
 [![Build Status](https://travis-ci.org/marcioAlmada/annotations.svg?branch=master)](https://travis-ci.org/marcioAlmada/annotations)
@@ -17,12 +17,12 @@ Minime\Annotations is the first KISS PHP annotations library.
 ```json
 {
   "require": {
-    "minime/annotations": "~3.0"
+    "minime/annotations": "dev-master"
   }
 }
 ```
 
-Through terminal: `composer require minime/annotations:~3.0` :8ball:
+Through terminal: `composer require ziorwebdev/annotations:dev-master` :8ball:
 
 ## Setup
 
